@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# редакторы
+.vscode/
+.idea/
+*.swp
+
+# логи
+logs/
+*.log
+
+# тяжёлые pcap
+trash/
+*.pcap
+*.pcapng
+
+# временное
+*.mine
+*.tmp
