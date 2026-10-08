@@ -1,0 +1,8 @@
+===== Search: error in /tmp/test.log =====
+Total error in /tmp/test.log: 4
+First_ten_string_with error
+2026-10-02 ERROR database connection fail
+2026-10-02 ERROR auth denied for bob
+2026-10-02 ERROR unauthorized access attempt
+2026-10-02 ERROR timeout on request
+END analyzing

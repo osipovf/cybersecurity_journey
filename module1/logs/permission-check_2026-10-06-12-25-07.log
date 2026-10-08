@@ -1,0 +1,21 @@
+=== PERMISSION CHECK ===
+File: /Users/vsevolod/Desktop/module1
+Type: directory
+Permissions: total
+-rw-r--r--@
+-rw-r--r--@
+-rw-r--r--@
+-rw-r--r--@
+-rw-r--r--@
+drwxr-xr-x@
+-rw-r--r--@
+-rw-r--r--@
+-rw-r--r--@
+-rw-r--r--@
+drwxr-xr-x
+-rw-r--r--@
+Numeric: 755
+Owner: vsevolod
+Group: staff
+Size: 544 bytes
+Warnings: (none)

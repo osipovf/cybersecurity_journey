@@ -1,0 +1,22 @@
+=== LOG STATS ===
+File: /tmp/test-access.log
+
+Total lines:        8
+
+--- Top 10 IPs ---
+   4 192.168.1.5
+   2 10.0.0.1
+   1 10.0.0.3
+   1 10.0.0.2
+
+--- Top 10 ERROR lines ---
+2026-10-04 12:35:25 ERROR 10.0.0.1 database fail
+2026-10-04 12:35:30 ERROR 192.168.1.5 auth denied
+2026-10-04 12:36:05 ERROR 192.168.1.5 unauthorized
+2026-10-04 12:36:20 ERROR 10.0.0.1 connection refused
+
+--- Level counters ---
+INFO: 2
+WARN: 1
+ERROR: 4
+CRITICAL: 1

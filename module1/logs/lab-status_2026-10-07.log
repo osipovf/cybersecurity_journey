@@ -1,0 +1,9 @@
+=== LAB STATUS ===
+Date: среда,  7 октября 2026 г. 23:20:59 (MSK)
+
+Wireshark: INSTALLED
+Splunk process: RUNNING
+Splunk Web: HTTP 303
+Splunk search: SKIPPED (SPLUNK_PASS not set)
+
+=== END ===

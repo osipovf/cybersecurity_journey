@@ -1,0 +1,19 @@
+____Data information____
+Direction:/Users/vsevolod/Desktop/module1
+Total files:     133
+.md file count:       8
+.sh file count:       9
+--- Files List ---
+total 168
+-rw-r--r--@  1 vsevolod  staff   6,1K  1 окт.  17:23 dns.md
+-rw-r--r--@  1 vsevolod  staff   4,9K  3 окт.  13:47 Event_ID.md
+-rw-r--r--@  1 vsevolod  staff   2,0K  2 окт.  14:05 http_headliners
+-rw-r--r--@  1 vsevolod  staff   4,4K  1 окт.  17:56 http.md
+-rw-r--r--@  1 vsevolod  staff   3,4K  4 окт.  14:00 information.md
+drwxr-xr-x@ 10 vsevolod  staff   320B  6 окт.  12:13 logs
+-rw-r--r--@  1 vsevolod  staff   891B  4 окт.  13:58 logs.md
+-rw-r--r--@  1 vsevolod  staff   2,0K  2 окт.  14:40 osi_model
+-rw-r--r--@  1 vsevolod  staff   4,8K  3 окт.  14:48 permissions.md
+-rw-r--r--@  1 vsevolod  staff    26K  6 окт.  12:05 pool.md
+drwxr-xr-x  14 vsevolod  staff   448B  4 окт.  14:51 scripts
+-rw-r--r--@  1 vsevolod  staff   6,9K  4 окт.  14:03 terminal.md

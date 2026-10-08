@@ -1,0 +1,10 @@
+File analyz:/tmp/test.log
+date: 2026-10-03-12-43-25
+Total count string:        5
+error:3
+fail:1
+denied:1
+unauthorized:1
+---5 the most useful word ---
+   5 2026-10-02
+===== END =====
